@@ -21,3 +21,12 @@ Planting information and strategies for the Dallas metropolitan area
 
 * remove shed
 
+
+
+### tools needed
+
+* wood chipper
+** https://www.amazon.com/Sun-Joe-CJ603E-1-7-Inch-Diameter/dp/B077YDZ725
+
+
+
